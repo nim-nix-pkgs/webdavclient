@@ -9,7 +9,7 @@
   
   inputs.src-webdavclient-master.flake = false;
   inputs.src-webdavclient-master.owner = "beshrkayali";
-  inputs.src-webdavclient-master.ref   = "refs/heads/master";
+  inputs.src-webdavclient-master.ref   = "master";
   inputs.src-webdavclient-master.repo  = "webdavclient";
   inputs.src-webdavclient-master.type  = "github";
   
