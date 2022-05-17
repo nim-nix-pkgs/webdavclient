@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1652367528,
-        "narHash": "sha256-ATe0DyqoYq381Q4IcBRl7+dQHox3iE78Imf82SkI+WE=",
+        "lastModified": 1652391710,
+        "narHash": "sha256-fmL4OM3CZlZIMc5bqvwnXw2/OjAVr3HGsWFxbK4quKg=",
         "owner": "nim-nix-pkgs",
         "repo": "webdavclient",
-        "rev": "3b5eb0cb32d67e9a691d9eb4867685f7bd86aa03",
+        "rev": "46564670146c4d5a05e2a65e753684349cb278a6",
         "type": "github"
       },
       "original": {
@@ -113,11 +113,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367528,
-        "narHash": "sha256-ATe0DyqoYq381Q4IcBRl7+dQHox3iE78Imf82SkI+WE=",
+        "lastModified": 1652391710,
+        "narHash": "sha256-fmL4OM3CZlZIMc5bqvwnXw2/OjAVr3HGsWFxbK4quKg=",
         "owner": "nim-nix-pkgs",
         "repo": "webdavclient",
-        "rev": "3b5eb0cb32d67e9a691d9eb4867685f7bd86aa03",
+        "rev": "46564670146c4d5a05e2a65e753684349cb278a6",
         "type": "github"
       },
       "original": {
